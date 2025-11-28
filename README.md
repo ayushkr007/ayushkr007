@@ -1,6 +1,6 @@
 <!-- Banner & Intro -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/8578092636?v=4" width="120" style="border-radius: 50%" alt="Ayush Kumar GitHub Avatar">
+  <img src="https://raw.githubusercontent.com/ayushkr007/ayushkr007/refs/heads/main/images.jpeg">
 </p>
 <h1 align="center">Hi, I'm Ayush Kumar 😉</h1>
 <p align="center">
