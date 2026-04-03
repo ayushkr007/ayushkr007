@@ -22,7 +22,7 @@ I am an engineering student from India with a strong academic foundation in Scie
 
 ### 🛠️ Skills & Technologies
 
-- **Programming languages**: C++, Javascript, java, python
+- **Programming languages**: C++, Javascript, java, python, Selenium
 - **Frontend development**: Html, Css, React
 - **Other**: Git, MySql
 
